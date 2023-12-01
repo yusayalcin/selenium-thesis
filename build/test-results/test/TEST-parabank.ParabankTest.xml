@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parabank.ParabankTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-06T19:55:35" hostname="yusayalcin" time="35.506">
+  <properties/>
+  <testcase name="sendFormWithUserTest" classname="parabank.ParabankTest" time="10.135"/>
+  <testcase name="loginTest" classname="parabank.ParabankTest" time="6.981"/>
+  <testcase name="logoutTest" classname="parabank.ParabankTest" time="7.429"/>
+  <testcase name="sendFormWithRandomDataTest" classname="parabank.ParabankTest" time="10.961"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 29056
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866935,084][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 20748
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866945,214][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 10235
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866952,195][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 28371
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866959,598][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+]]></system-err>
+</testsuite>

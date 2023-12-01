@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="booking.BookingTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-06T19:54:34" hostname="yusayalcin" time="60.152">
+  <properties/>
+  <testcase name="titleTest" classname="booking.BookingTest" time="4.729"/>
+  <testcase name="multiplePageTest" classname="booking.BookingTest" time="7.301"/>
+  <testcase name="javascriptExecutorTest" classname="booking.BookingTest" time="6.973"/>
+  <testcase name="radioTest" classname="booking.BookingTest" time="5.918"/>
+  <testcase name="checkBoxTest" classname="booking.BookingTest" time="11.693"/>
+  <testcase name="navigateBackTest" classname="booking.BookingTest" time="8.625"/>
+  <testcase name="sendFormTest" classname="booking.BookingTest" time="10.887"/>
+  <testcase name="hoverTest" classname="booking.BookingTest" time="4.026"/>
+  <system-out><![CDATA[Title of the page = Booking.com | Official site | The best hotels, flights, car rentals & accommodations
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 32151
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866875,815][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 31927
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866879,655][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 26506
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866886,935][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 5201
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866893,928][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 14777
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866899,863][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 1602
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866911,519][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 12475
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866920,154][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 12501
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1651866931,039][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+]]></system-err>
+</testsuite>
